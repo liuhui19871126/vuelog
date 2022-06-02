@@ -4,7 +4,8 @@
     <div>uid-props: {{a}}|{{b}}| uid-params:{{$route.params.uId}}</div>
     <hr>
     <router-link to="/users/123/profile/pp2">profile</router-link> |
-    <router-link to="/users/666/posts/pt2">posts</router-link>
+    <router-link to="/users/666/posts/pt2">posts</router-link> |
+    <router-link to="/users/o/lh">to user1</router-link>
     <router-view></router-view>
     
     <!-- <ul>
